@@ -1,0 +1,42 @@
+/* --------------- Header ------------------*/
+
+body {
+
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+
+header ul li {
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 75px;
+  }
+  
+
+  a {
+    text-decoration: none;
+    color: #888;
+  }
+  
+  
+/* --------------- Main Section ------------------*/
+  main {
+    width: 960px;
+    margin: 30px auto;
+  }
+  
+  
+
+/* --------------- Footer ------------------*/
+
+footer {
+    height: 150px;
+      background: rgb(68, 68, 68);
+  }
